@@ -7,7 +7,7 @@ Aquí se define cómo las organizaciones se registran, configuran su perfil y ac
 - Definir datos requeridos en el registro de empresas.
 - Crear perfiles de marca/industria.
 - Conectar empresas con la Calculadora TRU-e.
-- Dar acceso al módulo Synapsis para publicación de desafíos.
+- Dar acceso al módulo Syndapsis para publicación de desafíos.
 
 ## 📂 Roadmap corto
 1. Documentar datos necesarios para registro (industria, contacto, etc.).
