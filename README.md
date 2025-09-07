@@ -1,7 +1,7 @@
 # Onboarding Empresas – SYNDAverse
 
 Este repositorio contiene el flujo de **onboarding para empresas** que ingresan a SYNDAverse.  
-Aquí se define cómo las organizaciones se registran, configuran su perfil y acceden a publicar desafíos en la plataforma **Synapsis**.
+Aquí se define cómo las organizaciones se registran, configuran su perfil y acceden a publicar desafíos en la plataforma **Syndapsis**.
 
 ## 🔹 Objetivos
 - Definir datos requeridos en el registro de empresas.
