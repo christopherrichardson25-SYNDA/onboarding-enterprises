@@ -13,4 +13,4 @@ Aquí se define cómo las organizaciones se registran, configuran su perfil y ac
 1. Documentar datos necesarios para registro (industria, contacto, etc.).
 2. Diseñar pantallas iniciales de registro y dashboard para empresas.
 3. Conectar con módulo TRU-e Calculator para evaluación reputacional.
-4. Integrar con Synapsis Platform para publicación de desafíos.
+4. Integrar con Syndapsis Platform para publicación de desafíos.
